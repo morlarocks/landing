@@ -1,0 +1,10 @@
+.btn-yours{
+  color: white;
+  background-color: #FF003F;
+  padding: 10px 20px;
+  transition: background-color 0.5s ease;
+}
+
+.btn-yours:hover {
+  background-color: #bb0230;
+}

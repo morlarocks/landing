@@ -1,0 +1,26 @@
+.cards-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+}
+
+.card-product {
+  width: 300px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgb(0,0,0);
+    text-align: center;
+    padding: 20px;
+}
+
+.card-product img{
+  height: 150px;
+  background-size: cover;
+}
+
+.card-product-text {
+  padding: 30px;
+}
+
+.card-product-text h2, p {
+  margin: 0px;
+}

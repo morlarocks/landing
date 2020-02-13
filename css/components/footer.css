@@ -1,0 +1,39 @@
+.footer {
+  text-align: center;
+  padding: 30px;
+  background-color: #FF003F;
+  color: white;
+}
+
+.footer h2 {
+  align-self: flex-start;
+}
+
+.list-inline {
+  padding: 0;
+}
+
+.list-inline li {
+  list-style: none;
+  display: inline;
+}
+
+.social-icon {
+  font-size: 35px;
+  margin: 10px 10px;
+  color: white;
+}
+
+.social-icon:hover {
+  text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
+#avatar {
+    /*position: absolute;
+    right: 20px;
+    top: -20px;*/
+    width: 50px;
+    border-radius: 50%;
+    border: 1px white solid;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
